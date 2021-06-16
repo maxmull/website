@@ -1,0 +1,9 @@
+
+RDS		:	maxmuller.cc2xdjxxrf4u.ap-south-1.rds.amazonaws.com
+username	:	root
+passwd		:	MaxGe2020
+
+
+ip address : 3.6.89.131
+user		: ec2-user
+
